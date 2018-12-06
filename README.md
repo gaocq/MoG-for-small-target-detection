@@ -1,0 +1,2 @@
+# MoG-for-small-target-detection
+This source code is for infrared small target detection method based on  Mixture of Gaussians (MoG) with Markov random field (MRF) proposed in our paper of PR2018: Chenqiang Gao, Lan Wang, Yongxing Xiao, Qian Zhao,Deyu Meng, “Infrared small-dim target detection based on Markov random field guided noise modeling,” Pattern Recognition, vol. 76, no. Supplement C, pp. 463-475, 2018/04/01/, 2018.
