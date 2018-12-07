@@ -41,8 +41,8 @@ If you use the test images in your publications, in additoin to above reference,
 You just run the the file of *main.m* in matlab. Our matlab version for development is Matlab2018a. 
 Some modules are written by C++, and you should recompile them if you run
 it with errors, Like as follows:
->> mex update_Z.cpp
->> mex reconstructImage.cpp
+> mex update_Z.cpp  
+> mex reconstructImage.cpp  
 
 ## Contact
 If you have any questions, please contact:  
